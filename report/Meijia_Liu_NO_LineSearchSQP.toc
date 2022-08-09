@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Support Vector Machine}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Linear Separable SVM}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Linear non-separable SVM}{3}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}New dual form}{3}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Kernel Tricks}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Support Vectors}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Recovering b}{5}{}%
+\contentsline {section}{\numberline {3}Line Search SQP}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Equality Constraints}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Inequality Constraints}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Algorithm Development}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Merit Function}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Damped BFGS Updating}{9}{}%
+\contentsline {section}{\numberline {4}Numerical Results}{10}{}%
+\contentsline {subsection}{\numberline {4.1}Convergence Result}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Performance complexity}{16}{}%
+\contentsline {section}{\numberline {5}Summary}{16}{}%
+\contentsline {section}{\numberline {6}Appendix}{17}{}%
